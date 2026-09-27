@@ -5,8 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "npx serve -s . -l 3000",
-    "start": "npx serve -s . -l 3000",
-    "build": "echo 'Vercel static build completed successfully.'"
+    "start": "npx serve -s . -l 3000"
   },
   "keywords": [
     "color-analysis",
