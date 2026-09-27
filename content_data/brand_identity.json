@@ -1,0 +1,61 @@
+{
+  "brand_name": "The Colorist",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "service_reach": "In-person studio in Coimbatore & Virtual/Online consultations globally"
+  },
+  "founder_and_lead_analyst": {
+    "name": "The Colorist",
+    "role": "Founder & Certified Color Analyst",
+    "credential": "Certified Analyst specializing in 21-Type Seasonal Color Analysis, Face & Body Styling"
+  },
+  "tagline": "Stop Guessing, Start Knowing",
+  "sub_taglines": [
+    "The analyst with widest range of colors in India",
+    "Patented 21-type color analysis process — The only one in India",
+    "Personalized style, face, and body analysis for every stage of life"
+  ],
+  "brand_colors": {
+    "primary": {
+      "hex": "#506458",
+      "name": "Deep Sage Slate Green",
+      "usage": "Primary brand color, buttons, active accents, headers, card borders"
+    },
+    "secondary": {
+      "hex": "#f5e3d3",
+      "name": "Soft Peach Cream",
+      "usage": "Backgrounds, card highlights, warm contrast elements, badges"
+    }
+  },
+  "brand_story": {
+    "problem": "We've all had that moment. Standing in front of the mirror, unsure why an outfit just isn't working. Or scrolling through a wardrobe full of clothes with nothing that feels right. Most people go through this over and over, guessing. Wrong color. Wrong fit. Colors that look great on someone else but drain the life out of theirs.",
+    "solution": "The Colorist wants to help you fix that. We follow a patented 21 type color analysis process, the most detailed color analysis in India. We don't hand you one palette and call it done. We give you as many color options as possible, so you're never stuck choosing between 'your colors' and the outfit you actually love.",
+    "target_audience": "We've helped hundreds of women across the globe get dressed with clarity instead of indecision: brides-to-be, new moms, working professionals, and anyone tired of guessing.",
+    "holistic_approach": "We offer color analysis, body analysis, and face analysis, because looking your best was never just about color.",
+    "philosophy": "We believe getting ready should feel fun, not stressful. And your style should stay true to who you are, your choices, your culture, your life stage, never a copy-paste formula. Whether online or in person, one thing stays the same: we help you stop guessing, and start knowing."
+  },
+  "core_value_props": [
+    {
+      "title": "Patented 21-Type Color Analysis",
+      "description": "India's most comprehensive 21-type seasonal analysis process, offering unmatched depth beyond conventional 4 or 12-season systems."
+    },
+    {
+      "title": "Holistic 3-Pillar Styling",
+      "description": "Seamlessly integrates Color Analysis, 12-Point Body Analysis, and 5-Point Face Analysis for a cohesive personal aesthetic."
+    },
+    {
+      "title": "Actionable, Lifetime Deliverables",
+      "description": "Receive comprehensive 24–28+ page custom PDF reports, color swatches, dressing leaflets, and 30 to 60 days of direct WhatsApp styling support."
+    },
+    {
+      "title": "Worldwide Virtual & Coimbatore In-Person",
+      "description": "Convenient virtual consultations serving clients internationally (USA, UK, Middle East, India) alongside high-touch in-person studio sessions in Coimbatore."
+    }
+  ],
+  "social_links": {
+    "instagram": "https://www.instagram.com/",
+    "whatsapp_support_period": "30 to 60 days included depending on package"
+  }
+}

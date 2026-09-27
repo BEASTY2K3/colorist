@@ -1,0 +1,83 @@
+{
+  "photo_assets_directory": "Colorist x Bhogan Mediasoft/Photos /",
+  "items": [
+    {
+      "filename": "9205B628-E3A0-4E32-BB5A-740F3C9D58D7 2.jpg",
+      "title": "Live Draping Analysis Session with The Colorist",
+      "description": "The Colorist conducting an in-person color analysis test with a client in the Coimbatore studio, comparing seasonal fabric swatches across the client's neckline.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "index.html - Hero background or secondary featured image",
+        "about-us.html - Founder in action / Studio consultation showcase",
+        "services.html - In-person services section header"
+      ]
+    },
+    {
+      "filename": "EE8B5803-41EF-473A-B286-E0D0C961064C.jpg",
+      "title": "Precision Draping & Seasonal Color Spectrum",
+      "description": "The Colorist carefully guiding a client through multi-hue spectrum drapes with organized color fabric racks in the background.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "index.html - 'About Us' section slider or side card",
+        "about-us.html - Main brand story portrait",
+        "service/precision-haircuts/ (or updated service/color-analysis/) - Hero image"
+      ]
+    },
+    {
+      "filename": "FFF5E052-F207-4D0C-A41A-B37E0ECEBA19.jpg",
+      "title": "Client Transformation & Mirror Consultation",
+      "description": "The Colorist and smiling client reflected in an illuminated studio mirror while testing warm gold and yellow color fabrics, highlighting client joy and confidence.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "index.html - Testimonial section background or featured banner",
+        "about-us.html - 'Defining Confidence' image block",
+        "appointment.html - Booking encouragement image"
+      ]
+    },
+    {
+      "filename": "F91F4874-3F28-4F74-AD99-AB99FEF5DB45.PNG",
+      "title": "Studio Draping Rack & Palette Collection",
+      "description": "Professional color draping rack hanging with vibrant seasonal fabrics against a luxury Italian marble studio wall.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "index.html - Gallery / Studio environment preview",
+        "services.html - In-person Coimbatore studio banner",
+        "pricing.html - Header banner backdrop"
+      ]
+    },
+    {
+      "filename": "IMG_0452.jpg",
+      "title": "Consultation Desk & 21-Type Palette Arrays",
+      "description": "Studio consultation desk featuring 21-type seasonal color matrices, client palette cards, analysis sheets, certified diplomas on display, and laptop.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "about-us.html - Credentials and Process milestone section",
+        "index.html - 'Tools & Expertise' section",
+        "location.html - Studio interior atmosphere"
+      ]
+    },
+    {
+      "filename": "IMG_0453.jpg",
+      "title": "Seasonal Swatch Drapes with Official Labels",
+      "description": "Close-up perspective of the studio drape rack showcasing labeled seasonal swatches: 'Cool Strong', 'Warm Strong', 'Spring - light', 'contrast Summer - whitish' with 'The Colorist' branding.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "services.html - Service details list",
+        "index.html - Tool detail marquee or carousel",
+        "blog.html - Color theory educational articles"
+      ]
+    },
+    {
+      "filename": "28C4FB41-ED9D-4C54-984A-BDC7B1D442A6.jpg",
+      "original_filename": "28C4FB41-ED9D-4C54-984A-BDC7B1D442A6.heic",
+      "title": "Spring Pale Draping Swatch and Color Chip Fan",
+      "description": "Intimate close-up of a client testing the 'Spring · Pale' fabric swatch alongside a vibrant multi-color chip evaluation fan.",
+      "orientation": "portrait",
+      "suggested_placements": [
+        "index.html - Marquee or feature card icon/image",
+        "services.html - 'Women's Color Analysis' card",
+        "pricing.html - Tier detail highlight"
+      ]
+    }
+  ]
+}

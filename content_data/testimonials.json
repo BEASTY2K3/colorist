@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "average_rating": 5.0,
+    "total_featured": 7,
+    "highlight": "Trusted by women and men across the globe and in Coimbatore"
+  },
+  "testimonials": [
+    {
+      "id": "testimonial_priyanka",
+      "author": "Priyanka",
+      "location": "USA (Visited India)",
+      "service_received": "Color Analysis Gold (26-page report)",
+      "platform": "WhatsApp Direct Feedback",
+      "rating": 5,
+      "date": "July 2025",
+      "text": "Wow. That's amazing. I was confused between dark winter and dark autumn for me since long time, while I was researching on my own. Feels reassuring to get confirmation from a certified color analyst. Love the rates. I actually live in USA and was visiting India this month. In USA color analysis is nowhere less than $300, that too very basic not even this detailed. I'm very happy about my decision to consult from you after seeing your Instagram channel. Thankyou for the detailed report. I have so much more clarity now ❤️"
+    },
+    {
+      "id": "testimonial_divya",
+      "author": "Divya RP",
+      "location": "India",
+      "service_received": "Color Analysis Consultation (28-page report)",
+      "platform": "WhatsApp Direct Feedback",
+      "rating": 5,
+      "text": "This is actually a total eye opener. I could never understand why bold cold tones looked better on me than warm and nude tones. Always had that washed look on my face! Secondly the make up tips also are bang on! I rock the dark blue and dark green eyeliners! Lately have been observing the ruby red lipstick looks great on me rather than corals and nude shades of lipsticks. As a Hindu married woman traditional I have to wear gold, but somehow silver looks very elegant and natural on me. This report has been very insightful! Thank you so much"
+    },
+    {
+      "id": "testimonial_vk_ca",
+      "author": "VK Chartered Accountant",
+      "location": "Google Review",
+      "service_received": "Full Styling Consultation & Custom Wedding Styling Plan",
+      "platform": "Google Reviews",
+      "rating": 5,
+      "verified": true,
+      "text": "Had a wonderful experience with The Colorist! The session helped me understand my undertone and, more importantly, which colours actually make me look brighter and bring out my features. I also loved that the consultation wasn't limited to just colour analysis, it covered a complete revamp, from hairstyles and makeup to outfits and overall styling. What I particularly appreciated was the customised wedding styling plan. Since wedding shopping can be overwhelming, having personalised guidance on everything was really helpful. The entire session involved a detailed discussion, and The Colorist patiently listened to all my questions and cleared every doubt without rushing through anything. The suggestions felt practical and personalised rather than generic. Overall, it was a very informative and worthwhile experience!"
+    },
+    {
+      "id": "testimonial_aliya",
+      "author": "Aliya Varma",
+      "role": "Google Local Guide (17 reviews)",
+      "location": "Google Review",
+      "service_received": "Color Analysis",
+      "platform": "Google Reviews",
+      "rating": 5,
+      "verified": true,
+      "text": "The level of detail the color analysis provided was beyond my imagination! I have always felt that the colours I wore were not bringing out the best in me, after getting my analysis and wearing the colours that suit me, I have only been receiving endless compliments and also feeling better! This analysis should be done by all!"
+    },
+    {
+      "id": "testimonial_kristi",
+      "author": "Kristi",
+      "location": "Google Review",
+      "service_received": "Online Color Analysis",
+      "platform": "Google Reviews",
+      "rating": 5,
+      "verified": true,
+      "text": "Honestly didn't expect an online color analysis to be this accurate! The results were so spot on, I could literally see the difference when I tried their suggested shades. The process was quick, easy, and surprisingly fun. Totally worth it! The Colorist also answered all my questions and explained everything very simply! Thank you so much ✨"
+    },
+    {
+      "id": "testimonial_arshi",
+      "author": "Arshi Jacob",
+      "location": "Google Review",
+      "service_received": "Color Analysis Consultation",
+      "platform": "Google Reviews",
+      "rating": 5,
+      "verified": true,
+      "text": "Dear The Colorist, I believe I did make a great decision by taking up your services for doing a color analysis for my skin tone. The hassle and confusion of selecting a clothing is now no more and which is a lot less burden on my nervous system while shopping because I now know what to look for and what to avoid. I believe I have gifted myself a gift of mental peace by knowing what to wear, what jewellery will complement my skin tone/undertone, which hair color would be most suitable and how to go about with different shades of colours. This is a life lesson for lifetime and an improvement/investment in my own-self."
+    },
+    {
+      "id": "testimonial_community",
+      "author": "Studio Client",
+      "location": "Direct Message",
+      "service_received": "Styling & Consultation",
+      "platform": "WhatsApp Direct Feedback",
+      "rating": 5,
+      "text": "I cannot stop talking about you to my girls! You are so good at what you do. Touch wood! 🧿 Always rooting for you. Thank you for being so kind. xx"
+    }
+  ]
+}

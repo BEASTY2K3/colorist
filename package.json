@@ -1,0 +1,21 @@
+{
+  "name": "the-colorist-studio",
+  "version": "1.0.0",
+  "description": "The Colorist — Patented 21-Type Color Analysis, Personal Styling Studio & Booking Calendar",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve -s . -l 3000",
+    "start": "npx serve -s . -l 3000",
+    "build": "echo 'Vercel static build completed successfully.'"
+  },
+  "keywords": [
+    "color-analysis",
+    "personal-styling",
+    "coimbatore",
+    "virtual-consultations",
+    "the-colorist",
+    "booking-calendar"
+  ],
+  "author": "The Colorist",
+  "license": "UNLICENSED"
+}

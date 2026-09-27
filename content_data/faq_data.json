@@ -1,0 +1,34 @@
+{
+  "faqs": [
+    {
+      "id": "faq_01",
+      "question": "What is the 21-Type Color Analysis process, and how is it different?",
+      "answer": "Most conventional color systems limit analysis to 4 or 12 seasons, which often fails to capture subtle variations in undertone, depth, and chroma for diverse skin tones. The Colorist uses a patented 21-type seasonal color analysis process — the most detailed and only one of its kind in India. Instead of handing you a generic swatch card, we determine your precise best tones, sub-tones, worst tones, metals, and contrasts so you're never restricted in what you can wear."
+    },
+    {
+      "id": "faq_02",
+      "question": "Can I do a color analysis online, and is it as accurate as in-person?",
+      "answer": "Yes! Our virtual color analysis consultations have helped hundreds of clients worldwide, from the USA and UK to across India. With our standardized photo capture guidelines, calibration against white balance, and high-resolution digital analysis, the accuracy matches in-person consultations. Plus, our Gold and Platinum virtual packages include a 1-on-1 Google video call to review findings and answer your questions live."
+    },
+    {
+      "id": "faq_03",
+      "question": "What is included in a Body and Face Analysis consultation?",
+      "answer": "Looking your best was never just about color. Our Body Analysis includes a full 12-point measurement to identify ideal silhouettes, lengths for tops/pants/outerwear, and outfit structures for both Indian ethnic and Western wear. Our Face Analysis features a 5-point measurement covering necklines, hairstyles, hair partings, eyewear, jewelry shapes, and print scale recommendations."
+    },
+    {
+      "id": "faq_04",
+      "question": "What deliverables do I receive after my session?",
+      "answer": "Depending on your selected tier, you receive a comprehensive 24 to 28+ page personalized downloadable PDF report within 48 to 72 hours, digital and physical palette cards, outfit pairing guides, and a dressing leaflet. You also receive 30 to 60 days of direct WhatsApp styling support to ask questions whenever you shop or style an outfit."
+    },
+    {
+      "id": "faq_05",
+      "question": "Do you offer services for men?",
+      "answer": "Yes! For virtual services, men can book our dedicated Men's Online Color Analysis (Rs. 3,699) or our Men's Online Gold Bundle anytime. For our in-person studio in Coimbatore, men's services (Color, Body, and Styling Bundles) are available exclusively as an add-on alongside a female consultation."
+    },
+    {
+      "id": "faq_06",
+      "question": "How do I prepare for my in-person studio appointment in Coimbatore?",
+      "answer": "For your in-person session, please come with a clean, makeup-free face (skin moisturized, no tinted creams) and wear neutral clothing (such as a plain top). Avoid colored contact lenses and self-tanners prior to your appointment so we can accurately assess your natural undertones and skin tone with our machine check and precision drapes."
+    }
+  ]
+}

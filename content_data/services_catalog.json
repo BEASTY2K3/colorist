@@ -1,0 +1,489 @@
+{
+  "service_categories": [
+    {
+      "category_id": "in_person",
+      "category_title": "In-Person Services",
+      "location": "Coimbatore Studio",
+      "description": "Hands-on, immersive consultations using physical precision fabric drapes, optical machine skintone tests, and direct measurement in our Coimbatore studio.",
+      "services": {
+        "women": [
+          {
+            "id": "in_person_women_color_analysis",
+            "name": "Women's Color Analysis (In-Person)",
+            "tagline": "The analyst with widest range of colors in India",
+            "badges": ["Certified Analyst", "In-Studio Experience"],
+            "tiers": [
+              {
+                "tier_name": "Silver",
+                "duration": "30-45 mins",
+                "price": "Contact / ₹______",
+                "features": [
+                  { "feature": "Color theory briefing", "included": true },
+                  { "feature": "8-type seasonal check", "included": true },
+                  { "feature": "17-type detailed color check", "included": false },
+                  { "feature": "Skintone check using machine", "included": true },
+                  { "feature": "Jewellery color check", "included": true },
+                  { "feature": "Makeup Color, nail polish, contacts color", "included": false },
+                  { "feature": "Makeup pouch check", "included": false },
+                  { "feature": "Personalised makeup product recommendations", "included": false },
+                  { "feature": "Hair color recommendations", "included": false },
+                  { "feature": "Personal color sheet and cards", "included": true },
+                  { "feature": "Color combinations tips", "included": false },
+                  { "feature": "30 day whatsapp support", "included": true },
+                  { "feature": "Downloadable PDF within 48hrs", "included": false }
+                ]
+              },
+              {
+                "tier_name": "Gold",
+                "duration": "1 hour",
+                "price": "Contact / ₹______",
+                "features": [
+                  { "feature": "Color theory briefing", "included": true },
+                  { "feature": "8-type seasonal check", "included": true },
+                  { "feature": "17-type detailed color check", "included": true },
+                  { "feature": "Skintone check using machine", "included": true },
+                  { "feature": "Jewellery color check", "included": true },
+                  { "feature": "Makeup Color, nail polish, contacts color", "included": false },
+                  { "feature": "Makeup pouch check", "included": false },
+                  { "feature": "Personalised makeup product recommendations", "included": false },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Personal color sheet and cards", "included": true },
+                  { "feature": "Color combinations tips", "included": true },
+                  { "feature": "30 day whatsapp support", "included": true },
+                  { "feature": "Downloadable PDF within 48hrs", "included": true }
+                ]
+              },
+              {
+                "tier_name": "Platinum",
+                "duration": "1.5 hours",
+                "price": "Contact / ₹______",
+                "popular": true,
+                "features": [
+                  { "feature": "Color theory briefing", "included": true },
+                  { "feature": "8-type seasonal check", "included": true },
+                  { "feature": "17-type detailed color check", "included": true },
+                  { "feature": "Skintone check using machine", "included": true },
+                  { "feature": "Jewellery color check", "included": true },
+                  { "feature": "Makeup Color, nail polish, contacts color", "included": true },
+                  { "feature": "Makeup pouch check", "included": true },
+                  { "feature": "Personalised makeup product recommendations", "included": true },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Personal color sheet and cards", "included": true },
+                  { "feature": "Color combinations tips", "included": true },
+                  { "feature": "30 day whatsapp support", "included": true },
+                  { "feature": "Downloadable PDF within 48hrs", "included": true }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "in_person_women_body_analysis",
+            "name": "Women's Body Analysis (In-Person)",
+            "badges": ["Certified Analyst", "Increase Self Confidence"],
+            "tiers": [
+              {
+                "tier_name": "Gold",
+                "duration": "1.5 hours",
+                "price": "Contact / ₹______",
+                "face_analysis": [
+                  "5 point measure",
+                  "Neckline recommendations",
+                  "Haircut recommendations"
+                ],
+                "body_analysis": [
+                  "Full body measurements at 12 points",
+                  "Silhouette and length recommendations for pants",
+                  "Silhouette and length recommendations for tops",
+                  "Silhouette and length recommendations for outerwear",
+                  "Sleeve recommendations",
+                  "Outfit guide for Indian and Western wear",
+                  "Downloadable PDF sent in 48 hours",
+                  "Dressing guide leaflet",
+                  "Q&A session"
+                ],
+                "bonus": "Styling tips, checklist and WhatsApp support for 30 days"
+              },
+              {
+                "tier_name": "Platinum",
+                "duration": "Up to 2 hours",
+                "price": "Contact / ₹______",
+                "face_analysis": [
+                  "5 point measure",
+                  "Makeup texture and prints analysis",
+                  "Neckline recommendations",
+                  "Haircut recommendations"
+                ],
+                "body_analysis": [
+                  "Full body measurements at 12 points",
+                  "Silhouette and length recommendations for pants",
+                  "Silhouette and length recommendations for tops",
+                  "Silhouette and length recommendations for outerwear",
+                  "Sleeve recommendations",
+                  "Outfit guide for Indian and Western wear",
+                  "Downloadable PDF sent in 48 hours",
+                  "Dressing guide leaflet",
+                  "Q&A session"
+                ],
+                "bonus": "Styling tips, checklist and WhatsApp support for 30 days"
+              }
+            ]
+          },
+          {
+            "id": "in_person_women_styling_bundle",
+            "name": "Women's Styling Bundle (In-Person: Color + Face + Body)",
+            "badges": ["Certified Analyst", "Increase Self Confidence"],
+            "tiers": [
+              {
+                "tier_name": "Gold Bundle",
+                "duration": "2 hours",
+                "price": "Contact / ₹______",
+                "color_analysis": "Everything in Color Analysis Gold (no makeup related guidance)",
+                "face_analysis": [
+                  "5 point measure",
+                  "Neckline recommendations",
+                  "Haircut recommendations",
+                  "Eyewear recommendations"
+                ],
+                "body_analysis": [
+                  "Full body measurements at 12 points",
+                  "Silhouette and length recommendations for pants",
+                  "Silhouette and length recommendations for tops",
+                  "Silhouette and length recommendations for outerwear",
+                  "Sleeve recommendations",
+                  "Outfit guide for Indian and Western wear",
+                  "Downloadable PDF sent in 48 hours",
+                  "Dressing guide leaflet",
+                  "Q&A session"
+                ],
+                "bonus": "Styling tips and WhatsApp support for 30 days"
+              },
+              {
+                "tier_name": "Platinum Bundle",
+                "duration": "Up to 3 hours",
+                "price": "Contact / ₹______",
+                "flagship": true,
+                "color_analysis": "Everything in Color Analysis Platinum",
+                "face_analysis": [
+                  "5 point measure",
+                  "Makeup texture and prints analysis",
+                  "Eyewear recommendations",
+                  "Neckline recommendations",
+                  "Haircut and parting recommendations",
+                  "Jewellery shape and size recommendation"
+                ],
+                "body_analysis": [
+                  "Full body measurements at 12 points",
+                  "Silhouette and length recommendations for pants",
+                  "Silhouette and length recommendations for tops",
+                  "Silhouette and length recommendations for outerwear",
+                  "Sleeve recommendations",
+                  "Downloadable PDF sent in 24-48 hours",
+                  "Dressing guide leaflet",
+                  "Q&A session"
+                ],
+                "bonus": "Styling tips, checklist and WhatsApp support for 60 days"
+              }
+            ]
+          }
+        ],
+        "men_addon": [
+          {
+            "id": "in_person_men_addon_notice",
+            "policy": "These services are only available as an add-on to female services."
+          },
+          {
+            "id": "in_person_men_color_analysis",
+            "name": "Men's Color Analysis (In-Person Add-On)",
+            "policy": "Only available as an add-on to female services",
+            "tiers": [
+              {
+                "tier_name": "Silver",
+                "duration": "30-45 mins",
+                "features": [
+                  { "feature": "Color theory briefing", "included": true },
+                  { "feature": "8-type seasonal check", "included": true },
+                  { "feature": "17-type detailed color check", "included": false },
+                  { "feature": "Skintone check using machine", "included": true },
+                  { "feature": "Jewellery color check", "included": true },
+                  { "feature": "Best whites check", "included": false },
+                  { "feature": "Hair color recommendations", "included": false },
+                  { "feature": "Personal color sheet and cards", "included": true },
+                  { "feature": "Color combinations tips", "included": false },
+                  { "feature": "30 day whatsapp support", "included": true },
+                  { "feature": "Downloadable PDF within 48hrs", "included": false }
+                ]
+              },
+              {
+                "tier_name": "Gold",
+                "duration": "1 hour",
+                "features": [
+                  { "feature": "Color theory briefing", "included": true },
+                  { "feature": "8-type seasonal check", "included": true },
+                  { "feature": "17-type detailed color check", "included": true },
+                  { "feature": "Skintone check using machine", "included": true },
+                  { "feature": "Jewellery color check", "included": true },
+                  { "feature": "Best whites check", "included": true },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Personal color sheet and cards", "included": true },
+                  { "feature": "Color combinations tips", "included": true },
+                  { "feature": "30 day whatsapp support", "included": true },
+                  { "feature": "Downloadable PDF within 48hrs", "included": true }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "in_person_men_body_analysis",
+            "name": "Men's Body Analysis (In-Person Add-On)",
+            "policy": "Only available as an add-on to female services",
+            "duration": "1.5 hours",
+            "badges": ["Certified Analyst", "Increase Self Confidence"],
+            "face_analysis": [
+              "5 point measure",
+              "Collars and Neckline recommendations",
+              "Haircut recommendations",
+              "Print analysis"
+            ],
+            "body_analysis": [
+              "Full body measurements at 12 points",
+              "Silhouette and length recommendations for pants",
+              "Silhouette and length recommendations for tops",
+              "Silhouette and length recommendations for outerwear",
+              "Outfit guide for Indian and Western wear",
+              "Downloadable PDF sent in 48 hours",
+              "Dressing guide leaflet",
+              "Q&A session"
+            ],
+            "bonus": "Styling tips, checklist and WhatsApp support for 30 days"
+          },
+          {
+            "id": "in_person_men_styling_bundle",
+            "name": "Men's Styling Bundle (In-Person Add-On)",
+            "policy": "Only available as an add-on to female services",
+            "duration": "Up to 2 hrs 15 mins",
+            "badges": ["Certified Analyst", "Increase Self Confidence"],
+            "color_analysis": "Everything in Color Analysis Gold",
+            "face_analysis": [
+              "5 point measure",
+              "Collars and Neckline recommendations",
+              "Haircut recommendations",
+              "Print analysis",
+              "Eyewear recommendations",
+              "Beard / Moustache recommendations"
+            ],
+            "body_analysis": [
+              "Full body measurements at 12 points",
+              "Silhouette and length recommendations for pants",
+              "Silhouette and length recommendations for tops",
+              "Silhouette and length recommendations for outerwear",
+              "Outfit guide for Indian and Western wear",
+              "Downloadable PDF sent in 48 hours",
+              "Dressing guide leaflet",
+              "Q&A session"
+            ],
+            "bonus": "Styling tips, checklist and WhatsApp support for 30 days"
+          }
+        ]
+      }
+    },
+    {
+      "category_id": "virtual",
+      "category_title": "Virtual & Online Services",
+      "location": "Global / Remote via Video Call & Digital Reporting",
+      "description": "High-accuracy digital consultations accessible worldwide, backed by photo verification, custom digital palettes, and 1-on-1 video guidance.",
+      "services": {
+        "women": [
+          {
+            "id": "virtual_women_color_analysis",
+            "name": "Women's Color Analysis Packages (Virtual)",
+            "tiers": [
+              {
+                "tier_name": "Silver",
+                "features": [
+                  { "feature": "Your Best Tones", "included": true },
+                  { "feature": "Your Sub Tones", "included": true },
+                  { "feature": "Your Worst Tones", "included": true },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Jewellery color recommendations", "included": true },
+                  { "feature": "Makeup Color recommendations", "included": false },
+                  { "feature": "12-15 Blush and Lip product recommendations", "included": false },
+                  { "feature": "Contact lens color recommendations", "included": false },
+                  { "feature": "Nail polish recommendations", "included": false },
+                  { "feature": "Google call for color queries", "included": false },
+                  { "feature": "Downloadable PDF", "included": true },
+                  { "feature": "Guide on how to make color combinations", "included": false }
+                ]
+              },
+              {
+                "tier_name": "Gold",
+                "features": [
+                  { "feature": "Your Best Tones", "included": true },
+                  { "feature": "Your Sub Tones", "included": true },
+                  { "feature": "Your Worst Tones", "included": true },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Jewellery color recommendations", "included": true },
+                  { "feature": "Makeup Color recommendations", "included": true },
+                  { "feature": "12-15 Blush and Lip product recommendations", "included": true },
+                  { "feature": "Contact lens color recommendations", "included": false },
+                  { "feature": "Nail polish recommendations", "included": false },
+                  { "feature": "Google call for color queries", "included": true },
+                  { "feature": "Downloadable PDF", "included": true },
+                  { "feature": "Guide on how to make color combinations", "included": false }
+                ]
+              },
+              {
+                "tier_name": "Platinum",
+                "popular": true,
+                "features": [
+                  { "feature": "Your Best Tones", "included": true },
+                  { "feature": "Your Sub Tones", "included": true },
+                  { "feature": "Your Worst Tones", "included": true },
+                  { "feature": "Hair color recommendations", "included": true },
+                  { "feature": "Jewellery color recommendations", "included": true },
+                  { "feature": "Makeup Color recommendations", "included": true },
+                  { "feature": "12-15 Blush and Lip product recommendations", "included": true },
+                  { "feature": "Contact lens color recommendations", "included": true },
+                  { "feature": "Nail polish recommendations", "included": true },
+                  { "feature": "Google call for color queries", "included": true },
+                  { "feature": "Downloadable PDF", "included": true },
+                  { "feature": "Guide on how to make color combinations", "included": true }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "virtual_women_body_analysis",
+            "name": "Women's Body Analysis (Online)",
+            "tiers": [
+              {
+                "tier_name": "Silver",
+                "features": [
+                  { "feature": "Body type analysis", "included": true },
+                  { "feature": "Waist rise", "included": true },
+                  { "feature": "Shorts length recommendations", "included": true },
+                  { "feature": "Skirt style recommendations", "included": true },
+                  { "feature": "Long pants length + style recommendations", "included": true },
+                  { "feature": "Sleeve style recommendations", "included": false },
+                  { "feature": "Neckline recommendations", "included": false },
+                  { "feature": "Best prints analysis", "included": false },
+                  { "feature": "How to combine prints", "included": false },
+                  { "feature": "Outfit ideas and guide (formals/western)", "included": true },
+                  { "feature": "Outfit ideas and guide (Indian wear)", "included": false },
+                  { "feature": "Styling checklist to make outfits", "included": false },
+                  { "feature": "Hair-cut suggestions", "included": false },
+                  { "feature": "Consultation call (60mins)", "included": false },
+                  { "feature": "Must have bags and footwear", "included": false },
+                  { "feature": "30 day Whatsapp Support", "included": true },
+                  { "feature": "Downloadable PDF", "included": true }
+                ]
+              },
+              {
+                "tier_name": "Gold",
+                "features": [
+                  { "feature": "Body type analysis", "included": true },
+                  { "feature": "Waist rise", "included": true },
+                  { "feature": "Shorts length recommendations", "included": true },
+                  { "feature": "Skirt style recommendations", "included": true },
+                  { "feature": "Long pants length + style recommendations", "included": true },
+                  { "feature": "Sleeve style recommendations", "included": true },
+                  { "feature": "Neckline recommendations", "included": true },
+                  { "feature": "Best prints analysis", "included": false },
+                  { "feature": "How to combine prints", "included": false },
+                  { "feature": "Outfit ideas and guide (formals/western)", "included": true },
+                  { "feature": "Outfit ideas and guide (Indian wear)", "included": true },
+                  { "feature": "Styling checklist to make outfits", "included": false },
+                  { "feature": "Hair-cut suggestions", "included": true },
+                  { "feature": "Consultation call (60mins)", "included": true },
+                  { "feature": "Must have bags and footwear", "included": true },
+                  { "feature": "30 day Whatsapp Support", "included": true },
+                  { "feature": "Downloadable PDF", "included": true }
+                ]
+              },
+              {
+                "tier_name": "Platinum",
+                "features": [
+                  { "feature": "Body type analysis", "included": true },
+                  { "feature": "Waist rise", "included": true },
+                  { "feature": "Shorts length recommendations", "included": true },
+                  { "feature": "Skirt style recommendations", "included": true },
+                  { "feature": "Long pants length + style recommendations", "included": true },
+                  { "feature": "Sleeve style recommendations", "included": true },
+                  { "feature": "Neckline recommendations", "included": true },
+                  { "feature": "Best prints analysis", "included": true },
+                  { "feature": "How to combine prints", "included": true },
+                  { "feature": "Outfit ideas and guide (formals/western)", "included": true },
+                  { "feature": "Outfit ideas and guide (Indian wear)", "included": true },
+                  { "feature": "Styling checklist to make outfits", "included": true },
+                  { "feature": "Hair-cut suggestions", "included": true },
+                  { "feature": "Consultation call (60mins)", "included": true },
+                  { "feature": "Must have bags and footwear", "included": true },
+                  { "feature": "30 day Whatsapp Support", "included": true },
+                  { "feature": "Downloadable PDF", "included": true }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "virtual_women_styling_bundle",
+            "name": "Women's Styling Bundles (Virtual)",
+            "tiers": [
+              {
+                "tier_name": "Gold Bundle",
+                "components": [
+                  "Color Analysis (Gold Tier)",
+                  "Body Analysis (Gold Tier)",
+                  "Face Analysis: Face shape analysis, Eyewear recommendations, Jewellery shape and size recommendations, Everything in platinum color & body analysis"
+                ],
+                "pricing_note": "Special Bundle Offer: Save with bundle"
+              },
+              {
+                "tier_name": "Platinum Bundle",
+                "components": [
+                  "Color Analysis (Platinum Tier)",
+                  "Body Analysis (Platinum Tier)",
+                  "Face Analysis: Face shape and feature analysis, Makeup tips according to features, Hair parting recommendations, Eyewear recommendations, Jewellery shape and size recommendations, Everything in platinum color & body analysis",
+                  "Bonus: 30 min consultation call"
+                ],
+                "pricing_note": "Special Bundle Offer: Save with bundle"
+              }
+            ]
+          }
+        ],
+        "men": [
+          {
+            "id": "virtual_men_color_analysis",
+            "name": "Men's Color Analysis (Online)",
+            "price": "Rs. 3,699",
+            "highlight": "Using PATENTED color analysis process — The only one in India",
+            "guarantees": [
+              "Your photos protected",
+              "Results within 72 hours",
+              "Certified Color Analyst",
+              "Increase your self confidence"
+            ],
+            "inclusions": [
+              "Your Best Tones",
+              "Your Sub tones",
+              "Your Worst Tones",
+              "Best Neutral Tones",
+              "Best Metals: For watches and accessories",
+              "Best Hair color recommendations",
+              "30 min Google call for doubts and queries",
+              "Downloadable PDF report"
+            ]
+          },
+          {
+            "id": "virtual_men_gold_bundle",
+            "name": "Men's Gold Bundle (Online)",
+            "components": [
+              "Color Analysis (Gold Tier)",
+              "Body Analysis (Gold Tier)",
+              "Face Analysis: Everything in platinum color analysis, Everything in platinum body analysis, Face shape analysis, Eyewear recommendations, Beard / Moustache recommendations"
+            ],
+            "pricing_note": "Special Bundle Offer: Save with bundle"
+          }
+        ]
+      }
+    }
+  ]
+}
