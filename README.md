@@ -10,13 +10,10 @@ This repository contains the complete website, booking calendar, and client cons
 
 - **Patented 21-Type Seasonal Color Analysis**: India's most nuanced seasonal matrix (Spring, Summer, Autumn, Winter sub-seasons).
 - **12-Point Body Architecture & 5-Point Face Framing**: Precision silhouettes, necklines, hair geometry, and jewelry scales.
-- **Booking Calendar & Studio Dashboard** (`/dashboard.html` or `/dashboard/`):
-  - Interactive dark luxury monthly calendar with month/today navigation.
-  - Category filters: Coimbatore In-Person Studio vs. Worldwide Virtual (Google Meet).
-  - Quick-slot booking system (`10:00 AM`, `11:30 AM`, `02:00 PM`, `03:30 PM`, `05:00 PM`, `06:30 PM`).
-  - Active KPI summary metrics and searchable consultation roster.
-  - Client Dossier view with 1-click direct WhatsApp integration (`https://wa.me/...`).
-  - Offline-first `localStorage` state persistence.
+- **Consultation & Appointment Flow** (`/appointment.html` or `/appointment/`):
+  - In-Person Coimbatore Studio sessions and Worldwide Virtual Google Meet consultations.
+  - Transparent pricing matrices (Platinum, Gold, Silver tiers, Men's Online Analysis ₹3,699).
+  - WhatsApp Support integration (`https://wa.me/...`).
 - **Mobile-First Responsive Design**: Fluid layouts, responsive typography, and touch-optimized navigation across iPhones, Android devices, tablets, and desktops.
 - **Vercel-Ready**: Pre-configured with `vercel.json` (Clean URLs, routing, long-term asset caching, security headers).
 
@@ -75,8 +72,6 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 ```
 Gitfolder/
 ├── index.html                    # Homepage (Hero, 4 Pillars, Seasonal Swatches, Testimonials)
-├── dashboard.html                # Booking Calendar & Studio Dashboard (Root)
-├── dashboard/index.html          # Booking Calendar & Studio Dashboard (Folder)
 ├── about-us.html                 # About The Colorist & Studio Philosophy
 ├── services.html                 # Full Service Menu (Color, Body, Styling Bundles)
 ├── pricing.html                  # Pricing Matrices & Packages
