@@ -19,8 +19,8 @@
   ],
   "brand_colors": {
     "primary": {
-      "hex": "#506458",
-      "name": "Deep Sage Slate Green",
+      "hex": "#5C3826",
+      "name": "Rich Chocolate Brown",
       "usage": "Primary brand color, buttons, active accents, headers, card borders"
     },
     "secondary": {

@@ -10,7 +10,7 @@ This guide maps each page and component of the current website template to the e
 Update root theme colors or CSS utility classes:
 ```css
 :root {
-  --color-primary: #506458;      /* The Colorist Deep Sage Green */
+  --color-primary: #5C3826;      /* The Colorist Deep Chocolate Brown */
   --color-secondary: #f5e3d3;    /* The Colorist Soft Peach Cream */
   --color-dark: #2a342e;         /* Deep Slate Contrast */
   --color-light: #faf7f4;        /* Off-white background */

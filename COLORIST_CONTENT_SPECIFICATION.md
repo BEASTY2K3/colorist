@@ -18,7 +18,7 @@
 | **Key Differentiator** | *"The analyst with the widest range of colors in India."* |
 
 ### Brand Color Tokens (Open to Change)
-* **Primary Brand Green**: `#506458` (Deep Sage / Slate Green)  
+* **Primary Brand Green**: `#5C3826` (Rich Chocolate Brown)  
   * *Usage*: Headers, Primary CTAs, Active navigation highlights, Table borders, Price badges.
 * **Secondary Brand Warm Neutral**: `#f5e3d3` (Soft Peach Cream / Champagne)  
   * *Usage*: Page section backdrops, Accent containers, Notification cards, Contrast highlights.
